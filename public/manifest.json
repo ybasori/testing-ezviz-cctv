@@ -1,0 +1,15 @@
+{
+  "short_name": "Automa Apps",
+  "name": "Automa.id Apps",
+  "icons": [
+    {
+      "src": "./automa-logo_1.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#C00000",
+  "background_color": "#ffffff"
+}
